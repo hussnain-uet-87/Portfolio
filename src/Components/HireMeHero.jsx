@@ -16,7 +16,7 @@ const HireMeHero = () => {
   };
 
   return (
-    <div id="contact" className="w-[65%] max-w-4xl pb-4 mx-auto pt-16">
+    <div id="contact" className=" w-[90%] md:w-[65%] max-w-4xl pb-4 mx-auto pt-16">
       <h2 className="text-left text-xl text-blue-500 font-bold">Hire Me</h2>
       <p className="mt-2 text-xl font-bold">
         “Need a Website for Your Business? I’ve Got You Covered.”
