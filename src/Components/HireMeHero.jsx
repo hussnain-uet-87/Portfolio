@@ -36,7 +36,7 @@ const HireMeHero = () => {
           </div>
           <div className="flex items-center space-x-4">
             <FaGlobe className="text-blue-600" />
-            <p className="text-gray-700">www.hafizhusnainarif.vercel.app</p>
+            <p className="text-gray-700">www.hafiz-husnain-arif.vercel.app</p>
           </div>
         </div>
 
