@@ -13,7 +13,7 @@ import linkedInImage from "../assets/linkedinimage.jpg";
 
 const Hero = () => {
   return (
-    <div className="flex items-center pt-12 flex-col gap-12 min-h-[90vh]">
+    <div className="flex items-center px-5 pt-12 flex-col gap-12 min-h-[90vh]">
       {/* main div - image and left content */}
       <div className="flex items-center   flex-col md:flex-row mt-14 md:mt-32 gap-6">
         {/* left content - name and bio  */}
