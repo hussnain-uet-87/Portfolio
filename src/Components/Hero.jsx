@@ -13,15 +13,15 @@ import linkedInImage from "../assets/linkedinimage.jpg";
 
 const Hero = () => {
   return (
-    <div className="flex items-center  flex-col gap-12 min-h-[90vh]">
+    <div className="flex items-center pt-12 flex-col gap-12 min-h-[90vh]">
       {/* main div - image and left content */}
       <div className="flex items-center   flex-col md:flex-row mt-14 md:mt-32 gap-6">
         {/* left content - name and bio  */}
         <div className="max-w-[400px]">
-          <h1 className="text-3xl md:text-4xl font-bold ">Front-End React Developer 👋</h1>
+          <h1 className="text-3xl md:text-4xl font-bold ">Website Designer & Developer 👋</h1>
           <p className="mt-6 mb-4">
-            Hi, I'm Hafiz Husnain Arif. A Passionate Front-end React Developer
-            based in Lahore, Pakistan📍
+            Hi, I'm Hafiz Husnain Arif. A Passionate Website Developer
+            and I help businesses stand out online by building modern, professional websites 🚀
           </p>
           <div className="flex text-3xl">
             <a href="https://www.linkedin.com/in/hafiz-husnain-arif-00820a365" target="_blank"><RiLinkedinBoxFill /></a>
@@ -36,12 +36,13 @@ const Hero = () => {
         />
       </div>
       <div className="flex items-center md:gap-18 md:ml-[-40px] flex-col md:flex-row justify-center md:mt-12 ">
-        <p className="font-semibold md:border-b-0 md:pr-7 md:border-r-2 pb-1 text-lg border-b-2">Tech Stack </p>
+        <p className="font-semibold md:border-b-0 md:mr-10 md:pr-7 md:border-r-2 pb-1 text-lg border-b-2">Tech Stack </p>
         <div className="flex w-[300px] flex-wrap md:flex-nowrap md:flex-row pt-10 md:pt-0 items-center justify-center gap-10 text-4xl px-6">
           <i className=" devicon-html5-plain colored"></i>
           <i className="devicon-css3-plain colored"></i>
           <i className="devicon-javascript-plain colored bg-black"></i>
           <i className="devicon-react-plain colored"></i>
+          <i className="devicon-tailwindcss-plain colored"></i>
           <p className="text-3xl font-semibold text-green-600">GSAP</p>
         </div>
       </div>
