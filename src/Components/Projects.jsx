@@ -8,7 +8,7 @@ const Projects = () => {
       <div className=" w-[65%] mb-20">
         <h2 className="text-left text-xl text-blue-500 font-bold">Portfolio</h2>
         <p className="mt-2 text-xl font-bold">
-          Each Project is a Unique piece of Development🧩
+         “Your business deserves a modern website — here’s proof I can build one.”🧩
         </p>
       </div>
       <div >
