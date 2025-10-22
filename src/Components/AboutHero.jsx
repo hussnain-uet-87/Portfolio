@@ -7,8 +7,8 @@ const AboutHero = () => {
     <img src={aboutImg} className='w-[300px] sm:w-[350px] lg:w-[400px] rounded-xl object-cover object-right' alt="" />    
     <div className='w-[300px] sm:w-[400px]'>
         <h2 className='font-semibold text-lg text-blue-500'>About Me</h2>
-        <h2 className='text-2xl mt-2 mb-4 font-bold tracking-tight'>A dedicated Front-end Developer based in Lahore, Pakistan</h2>
-        <p className='font-semibold'>With a strong foundation in HTML, CSS, JavaScript, React, Tailwind CSS and GSAP. I build responsive, modern websites that align with client goals. My focus is on enhancing brand value by delivering clean, user-friendly solutions.I work collaboratively in teams and ensure every project meets expectations, blending creativity with functionality.</p>
+        <h2 className='text-2xl mt-2 mb-4 font-bold tracking-tight'>Building Websites That Build Businesses</h2>
+        <p className='font-semibold'>I help brands build a powerful online presence through websites that attract, engage, and convert. My focus is on understanding your business goals and turning them into digital experiences that strengthen credibility and customer trust. Every project I deliver blends strategy, design, and usability — ensuring your website not only looks professional but works effectively to grow your business.</p>
     </div>
     </div></>
   )
