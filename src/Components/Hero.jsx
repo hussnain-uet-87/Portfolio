@@ -21,7 +21,7 @@ const Hero = () => {
           <h1 className="text-3xl md:text-4xl font-bold ">Website Designer & Developer 👋</h1>
           <p className="mt-6 mb-4">
             Hi, I'm Hafiz Husnain Arif. A Passionate Website Developer
-            and I help businesses get more clients by building them modern & professional websites. 🚀
+            and I help businesses get more clients by building them modern & professional websites.
           </p>
           <div className="flex text-3xl">
             <a href="https://www.linkedin.com/in/hafiz-husnain-arif-00820a365" target="_blank"><RiLinkedinBoxFill /></a>
